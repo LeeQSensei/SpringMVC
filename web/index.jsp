@@ -16,6 +16,8 @@
   now now now
 
   two two two
+
+  version 1.0
   $END$
   </body>
 </html>
